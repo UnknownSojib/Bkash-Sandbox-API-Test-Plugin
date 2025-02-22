@@ -14,3 +14,6 @@ The plugin offers a comprehensive set of testing features, including the ability
 By utilizing the Bkash Sandbox API Test Plugin, developers can save time and effort in the development and testing phases of their integration with the Bkash payment system. It helps identify and resolve any issues or inconsistencies early on, allowing for a smooth and seamless integration when moving to the live production environment.
 Overall, the Bkash Sandbox API Test Plugin is a valuable tool for developers looking to integrate the Bkash payment system into their applications or websites. It provides a controlled testing environment, comprehensive testing capabilities, and documentation to ensure a successful and reliable integration with Bkash’s mobile financial services.
 
+# Licensing
+* All the code is published under the GNU General Public License v3.0.
+* This means that you may make modifications and changes.
