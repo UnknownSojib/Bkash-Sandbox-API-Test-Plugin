@@ -5,7 +5,7 @@ Description: Bkash Sandbox API Test for PGW URL-based checkout.
 Author:      Sojib Islam
 Author URI:  https://github.com/UnknownSojib
 License:     MIT License
-License URI: https://github.com/UnknownSojib
+License URI: https://github.com/UnknownSojib/Bkash-Sandbox-API-Test-Plugin-For-WooCommerce/blob/main/LICENSE
 */
 
 add_action( 'plugins_loaded', 'init_pgw_url_checkout_gateway_class' );
